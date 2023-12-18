@@ -6,6 +6,11 @@ TypeScript practice
 <ul>
   <li>Basics</li>
   <li>Variables</li>
+  <li>Any type</li>
+  <li>Annotations in depth</li>
+  <li>Type Inference</li>
+  <li>Function Parameter Annotations</li>
+  <li>Function Return Annotations</li>
 </ul>
 <img src="https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png" align="center" height="20%" width="20%"/>
 <hr>
