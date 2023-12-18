@@ -9,3 +9,11 @@ function addOne(num) {
 }
 var sum = addOne(10);
 console.log(sum);
+const double = (x, y, z) => (x * y * z);
+const res = double(6, 6, 6);
+console.log(res);
+function greet(user = "Anonymous") {
+    return `Hello ${user}`;
+}
+const res1 = greet();
+console.log(res1);
