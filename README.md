@@ -3,6 +3,10 @@ TypeScript practice
 <hr>
 <h2>18-12-2023</h2>
 <h3>Day-1</h3>
+<ul>
+  <li>Basics</li>
+  <li>Variables</li>
+</ul>
 <img src="https://pbs.twimg.com/profile_images/1648471227416346625/v84A9gXA_400x400.png" align="center" height="20%" width="20%"/>
 <hr>
 <h2>Typescript is a superset of javascript</h2>
