@@ -2,7 +2,7 @@
 TypeScript practice
 <hr>
 <h2>18-12-2023</h2>
-<h3>Day-1</h3>
+<h3>Day-1 starting 5:00PM</h3>
 <ul>
   <li>Basics</li>
   <li>Variables</li>
