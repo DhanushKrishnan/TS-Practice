@@ -13,7 +13,7 @@ var sum = addOne(10);
 console.log(sum);
 
 // USING ARROW => FUNCTION
-const double = (x: number, y: number, z: Number) => (x*y*z);
+const double = (x: number, y: number, z: number) => (x*y*z);
 const res = double(6,6,6);
 console.log(res);
 
@@ -23,5 +23,27 @@ function greet(user = "Anonymous"){
 }
 const res1 = greet();
 console.log(res1);
+
+// ANONYMOUS FUNCTION 
+const double2 = (x: number): number => x * x;
+console.log(double2(9));
+
+var num: number[] = [1,2,3,4];
+var names: Array<string> = ["Alice", "Bob", "Charlie"];
+var values: Array<number> = [1,2,3,4,5,6];
+
+console.log(num);
+console.log(names);
+console.log(values);
+
+const items: string[] = [];
+items.push("keyboard");
+items.push("Monitor");
+items.push("CPU");
+console.log(items);
+
+let items1: Array<string> = ["ABC", "DEF", "GHI"];
+console.log(items1);
+
 
 export{}
