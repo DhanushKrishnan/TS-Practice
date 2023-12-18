@@ -17,3 +17,18 @@ function greet(user = "Anonymous") {
 }
 const res1 = greet();
 console.log(res1);
+const double2 = (x) => x * x;
+console.log(double2(9));
+var num = [1, 2, 3, 4];
+var names = ["Alice", "Bob", "Charlie"];
+var values = [1, 2, 3, 4, 5, 6];
+console.log(num);
+console.log(names);
+console.log(values);
+const items = [];
+items.push("keyboard");
+items.push("Monitor");
+items.push("CPU");
+console.log(items);
+let items1 = ["ABC", "DEF", "GHI"];
+console.log(items1);
